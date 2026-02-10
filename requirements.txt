@@ -1,11 +1,7 @@
-langchain==0.2.7
-langchain-core==0.2.18
-langchain-community==0.2.7
-langchain-huggingface==0.0.3
-huggingface_hub==0.24.7
-streamlit>=1.28.0
-pypdf
+streamlit
+langchain
+langchain-community
+langchain-core
 faiss-cpu
-python-dotenv
-transformers
+pypdf
 ollama
