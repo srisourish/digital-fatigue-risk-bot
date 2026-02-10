@@ -1,2 +1,23 @@
-# digital-fatigue-risk-bot
-We developed a Digital Wellbeing chatbot that collects user data such as screen time, sleep, physical activity, breaks, and blue light usage. Based on these inputs, it analyzes digital fatigue, provides results and tips, and supports interactive chat using the Ollama AI model with RAG-based dataset querying.
+# 🧠 Digital Fatigue Risk Detection Bot
+
+A Streamlit-based AI application that analyzes digital habits and predicts fatigue risk using rule-based scoring and RAG (Retrieval-Augmented Generation).
+
+## 🚀 Features
+- Digital fatigue risk scoring
+- Personalized AI recommendations
+- PDF-based knowledge enhancement (RAG)
+- Interactive chat assistant
+- Downloadable assessment report
+
+## 🛠️ Tech Stack
+- Python
+- Streamlit
+- LangChain
+- Ollama (phi3)
+- FAISS
+- RAG Architecture
+
+## 📦 Installation
+
+```bash
+pip install -r requirements.txt
